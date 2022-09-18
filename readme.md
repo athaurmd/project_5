@@ -18,7 +18,7 @@
     40 minutes 
 
  ### Live link of the project    
-[Netlify](https://62ed4d6de9b20f0c1a3aad44--crypto-landing-websites.netlify.app/)
+[Netlify](https://crypto-token-landing-page.netlify.app)
 
 
 
